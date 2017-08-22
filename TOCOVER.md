@@ -3,6 +3,8 @@ This is a list of topics that will be covered in today's lecture.
 
 ## HashRouter
 - HashHistory vs BrowserHistory
+hash router has a # in url 
+browser router has a / in url
 
 ## Route
 - path
